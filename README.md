@@ -1,3 +1,19 @@
+#Pomodoro Timer
+
+Projeto criado com objetivo de aumentar a produtividade e concentração durante o dia.
+
+![main](https://user-images.githubusercontent.com/102544229/185917959-89686f89-c9ca-4a1d-827e-31f5da965a91.jpg)
+
+Insira o nome do projeto e o tempo que ele durará, ao fim do tempo descanse por alguns minutos e inicie um novo projeto.
+
+![2](https://user-images.githubusercontent.com/102544229/185918306-4efd8f0f-fda7-4685-a07a-fc29ae7b821e.jpg)
+
+Há como ver o histórico dos projetos que você criou e se foram concluídos, interrompidos ou cancelados.
+
+![3](https://user-images.githubusercontent.com/102544229/185919755-fe91b102-f1fe-4bad-b05a-1138e304f80c.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
